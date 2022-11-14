@@ -1,6 +1,6 @@
 ## SeedDms Gravatar Extension
 
-This is a SeedDms extension that add support for profile pictures from Gravatar to SeedDMS.
+This is a SeedDms extension that add support for profile pictures from Gravatar to SeedDms.
 
 ## Install
 
